@@ -10,7 +10,7 @@
   "jest": {
     "testEnvironment": "node",
     "moduleNameMapper": {
-        "players": "./__data__/players.json"
+      "players": "./__data__/players.json"
     }
   },
   "standard": {
